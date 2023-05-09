@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Ole</h1>
-<h3 align="center"></href>A C-programmer based in the Netherlands, learning to code cool stuff through [CODAM](https://codam.nl/en)'s curriculum, which is part of the [42 Network](https://42.fr/en/homepage).
+<h3 align="center">A C-programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum, which is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
 
 </h3>
 - 🐚 I’m currently working on [MiniShell](https://github.com/kennyohhst/minishell)
