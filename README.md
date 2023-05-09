@@ -1,7 +1,9 @@
 <h1 align="center">Hello World, I'm Ole</h1>
-<h3 align="center">A C-programmer based in the Netherlands, learning to code cool stuff through CODAM, part of the 42 Network.</h3>
+<h3 align="center">A C-programmer based in the Netherlands, learning to code cool stuff through [CODAM](https://www.codam.nl/en/)'s curriculum, which is part of the [42 Network](https://42.fr/en/homepage/).</h3>
 
-- 🔭 I’m currently working on [MiniShell](https://github.com/kennyohhst/minishell)
+- 🐚 I’m currently working on [MiniShell](https://github.com/kennyohhst/minishell)
+- 🔀 My latest project I've finished is [push-swap](https://github.com/olebol/push-swap)
+- ⭐ The project I'm proudest of is [fract-ole](https://github.com/olebol/fract-ole)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
