@@ -3,7 +3,7 @@
 
 <br></br>
 - 🐚 I’m currently working on [MiniShell](https://github.com/kennyohhst/minishell)
-- 🔀 My latest project I've finished is [push-swap](https://github.com/olebol/push-swap)
+- 🔀 My most recent project is [push-swap](https://github.com/olebol/push-swap)
 - ⭐ The project I'm most proud of is [fract-ole](https://github.com/olebol/fract-ole)
 
 <h3 align="left">Connect with me:</h3>
