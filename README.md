@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=2500&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=125&separator=%3C&lines=printf(%22Hello+World%5Cn%22);)](https://git.io/typing-svg)
-<h3 align="center">A C-programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum, which is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
+<h3 align="center">I'm Ole, a C-programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum. Codam is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
 
 <br></br>
 - 🐚 I’m currently working on [MiniShell](https://github.com/kennyohhst/minishell)
