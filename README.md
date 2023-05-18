@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=446&height=100&separator=%3C&lines=printf(%22Hello+World%5Cn%22);%3Cchar+++++++++*name+%3D+%22Ole%22;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=446&height=100&separator=%3C&lines=printf(%22Hello+World%5Cn%22);%3Cchar%9%9*name+%3D+%22Ole%22;)](https://git.io/typing-svg)
 <h3 align="center">A C-programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum, which is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
 
 <br></br>
