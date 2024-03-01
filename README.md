@@ -2,8 +2,8 @@
 <h3 align="center">I'm Ole, a C-programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum. CODAM is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
 
 <br></br>
-- 🐚 I’m currently working on [cub3d](https://github.com/olebol/cub3d)
-- 🔀 My most recent project is [CPP](https://github.com/olebol/CPP)
+- 🛠️ I’m currently working on [cub3d](https://github.com/olebol/cub3d)
+- 🐍 My most recent project is [CPP](https://github.com/olebol/CPP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
