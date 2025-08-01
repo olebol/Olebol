@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=2500&pause=500&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=125&separator=%3C&lines=printf(%22Hello+World%5Cn%22);)](https://git.io/typing-svg)
-<h3 align="center">I'm Ole, a C and C++  programmer based in the Netherlands, learning to code cool stuff through <a href="https://www.codam.nl/en">CODAM</a>'s curriculum. CODAM is part of the <a href="https://42.fr/en/homepage">42 Network</a>.</h3>
+<h3 align="center">I'm Ole, a Software Engineer that gets excited about just about any project</a>.</h3>
 
 <br></br>
-- 🛠️ I’m currently working on [IRC](https://github.com/lithiumox-codam/irc)
-- 🐍 My most recent project is [Inception](https://github.com/olebol/inception)
+Currently learning React through building various real-time games using different Node JS backends and socket communication.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
