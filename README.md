@@ -2,7 +2,7 @@
 <h3 align="center">I'm Ole, a Software Engineer that gets excited about just about any project</a>.</h3>
 
 <br></br>
-Currently learning React through building various real-time games using different Node JS backends and socket communication.
+Currently learning InterSystems/Healthcare integration strategies at KPN Health / Itzos.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
